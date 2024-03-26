@@ -1,3 +1,28 @@
+[TOC]
+
+# ⭐️写在前面的话⭐️
+> CSDN主页：[程序员好冰](https://blog.csdn.net/m0_67689541?spm=1000.2115.3001.5343)
+>
+> 目前在学习：操作系统
+>
+> 技术栈：SpringBoot项目
+>
+> 推荐书籍：《Java虚拟机》、《Java编程思想》
+>
+> 博客网站：暂无
+>
+> ==旅途的意义亦在旅途中。==
+>
+> 🎉欢迎 【点赞👍 关注🔎 收藏⭐️ 留言📝】
+> 📌本文由 程序员好冰 原创，CSDN 首发！
+> 📆入站时间： 🌴2022 年 07 月 13 日🌴
+>
+> 🍭<strong><font color = orange> 作者水平很有限，如果发现错误，一定要及时告知作者哦！感谢感谢！</font></strong>🍭
+
+--- ---
+
+
+
 ## 1、卸载已经安装的node
 
 **打开控制面板 -> 打开程序和功能 -> 右上角搜索输入node -> 右键卸载**
@@ -68,7 +93,7 @@ nvm uninstall < version > 卸载制定的版本
 
 
 
-![image-20231223153136180](C:\Users\15879\AppData\Roaming\Typora\typora-user-images\image-20231223153136180.png)
+![image-20231223153136180](https://haobin-001.oss-cn-hangzhou.aliyuncs.com/imgs-for-typora/image-20231223153136180.png?x-oss-process=image/auto-orient,1/quality,q_90/watermark,text_56iL5bqP5ZGY5aW95Yaw,type_ZmFuZ3poZW5na2FpdGk,color_fef6f0,size_30,shadow_100,g_se,x_10,y_10)
 
 
 
@@ -244,6 +269,16 @@ npm config set cache “D:\dev\nodejs\node_cache”
 ![image-20231223155938974](https://haobin-001.oss-cn-hangzhou.aliyuncs.com/imgs-for-typora/image-20231223155938974.png?x-oss-process=image/auto-orient,1/quality,q_90/watermark,text_56iL5bqP5ZGY5aW95Yaw,type_ZmFuZ3poZW5na2FpdGk,color_fef6f0,size_30,shadow_100,g_se,x_10,y_10)
 
 **在【系统变量】新建环境变量 NODE_PATH，值为D:\NVM\node_global\node_modules，其中D:\NVM\node_global\node_modules是上述创建的全局模块安装路径文件夹**
+
+---
+
+> ##### ==🚀 先看后赞，养成习惯！🚀==
+>
+> ##### ==🚀 先看后赞，养成习惯！🚀==
+
+> <font color=red>**🎈觉得文章写得不错的老铁们，点赞评论关注走一波！谢谢啦！🎈**</font>
+
+---
 
 
 
